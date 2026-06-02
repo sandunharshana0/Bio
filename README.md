@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandun Harshana</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI/ML Enthusiast | Mobile Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Mobile Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=33FFF5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sandun;Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;System+Designer;Mobile+Developer" alt="Typing SVG" />
@@ -26,7 +26,7 @@
       <p>🤝 <b>Let's Collaborate!</b><br>I'm always open to joint projects, sharing tech knowledge, and brainstorming innovative solutions in web dev, mobile apps, and game development. Let's connect and build something amazing together!</p>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Software Engineering Workflow" width="280" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcmZnd3R4amM5bXp6Z3Z5cmZnd3R4amM5bXp6Z3Z5cmZnd3R4/3p50WXBpAdNGo/giphy.gif" alt="Software Engineering" width="280" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -117,5 +117,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="Software Engineering Workflow" width="400" style="border-radius: 10px; margin-top: 20px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5Y3I4am9pZ3E0YW95bWZ6NXA0ZXkyZ3Z5cmZnd3R4amM5bXp6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Workflow" width="400" style="border-radius: 10px; margin-top: 20px;" />
 </p>
