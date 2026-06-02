@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat-square" alt="sandun-harshana views" />
+  <img src="https://komarev.com/ghpvc/?username=sandunharshana0&label=Profile%20views&color=0e75b6&style=flat-square" alt="sandunharshana0 views" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandun-harshana&theme=darkhub&column=7&margin-w=15" alt="sandun-harshana trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sandunharshana0&theme=darkhub&column=7&margin-w=15" alt="sandunharshana0 trophies" width="100%" />
   </a>
 </p>
 
@@ -76,22 +76,22 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-harshana&theme=high-contrast&hide_border=true&area=true&point=33FFF5&area_color=33FFF5&line=33FFF5" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandunharshana0&theme=high-contrast&hide_border=true&area=true&point=33FFF5&area_color=33FFF5&line=33FFF5" alt="Contribution Graph" width="100%" />
 </p>
 
 <table width="100%" cellspacing="10" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-harshana&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunharshana0&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&theme=dark&locale=en" alt="General Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sandunharshana0&show_icons=true&theme=dark&locale=en" alt="General Stats" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark&fire=33FFF5&currStreakNum=33FFF5" alt="sandun-harshana streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunharshana0&theme=dark&fire=33FFF5&currStreakNum=33FFF5" alt="sandunharshana0 streak" width="100%"/>
 </p>
 
 ---
