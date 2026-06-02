@@ -26,7 +26,7 @@
       <p>🤝 <b>Let's Collaborate!</b><br>I'm always open to joint projects, sharing tech knowledge, and brainstorming innovative solutions in web dev, mobile apps, and game development. Let's connect and build something amazing together!</p>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcmZnd3R4amM5bXp6Z3Z5cmZnd3R4amM5bXp6Z3Z5cmZnd3R4/3p50WXBpAdNGo/giphy.gif" alt="Software Engineering" width="280" style="border-radius: 10px;" />
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab11edb2de/1545668383214-G8P6V998BTECL5S772SD/coding-gif-9.gif" alt="Software Engineering" width="280" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -117,5 +117,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5Y3I4am9pZ3E0YW95bWZ6NXA0ZXkyZ3Z5cmZnd3R4amM5bXp6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Workflow" width="400" style="border-radius: 10px; margin-top: 20px;" />
+  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-13-142_512.gif" alt="Coding Workflow" width="300" style="border-radius: 10px; margin-top: 20px;" />
 </p>
